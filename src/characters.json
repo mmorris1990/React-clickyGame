@@ -1,0 +1,49 @@
+[
+    {
+        "id" : 1,
+        "name" : "Geralt",
+        "image" : "../public/images/geralt.jpg"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Ciri",
+        "image" : "../public/images/ciri.jpg"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Triss",
+        "image" : "../public/images/triss/jpg"
+    },
+
+    {
+        "id" : 4,
+        "name" : "Yennefer",
+        "image" : "../public/images/yennefer.jpg"
+    },
+
+    {
+        "id" : 5,
+        "name" : "Dandelion",
+        "image" : "../public/images/dandelion.jpg"
+    },
+
+    {
+        "id" : 6,
+        "name" : "Zoltan",
+        "image" : "../public/images/zoltan.jpg"
+    },
+
+    {
+        "id" : 7,
+        "name" : "Bloody Baron",
+        "image" : "../public/images/baron.jpg"
+    },
+
+    {
+        "id" : 8,
+        "name" : "Gaunter O Dimm",
+        "image" : "../public/images/gaunter.jpg"
+    }
+]
