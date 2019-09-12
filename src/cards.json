@@ -2,14 +2,14 @@
     {
         "id" : 1,
         "name" : "Geralt",
-        "image" : "../public/images/geralt.jpg",
+        "image" : "https://video-images.vice.com/articles/5810c62c1fcf3d51e1685255/lede/saying-goodbye-to-our-geralts-at-the-end-of-the-witcher-3-858-1465286479-crop_desktop.jpg?crop=0.7111111111111111xw:1xh;center,center&resize=1200:*",
         "count" : 0
     },
 
     {
         "id" : 2,
         "name" : "Ciri",
-        "image" : "../public/images/ciri.jpg",
+        "image" : "../public/images/originals/ciri.jpg",
         "count" : 0
     },
 
@@ -52,6 +52,13 @@
         "id" : 8,
         "name" : "Gaunter O Dimm",
         "image" : "../public/images/gaunter.jpg",
+        "count" : 0
+    },
+
+    {
+        "id" : 9,
+        "name" : "Vesemir",
+        "image" : "",
         "count" : 0
     }
 ]
