@@ -2,63 +2,63 @@
     {
         "id" : 1,
         "name" : "Geralt",
-        "image" : "https://video-images.vice.com/articles/5810c62c1fcf3d51e1685255/lede/saying-goodbye-to-our-geralts-at-the-end-of-the-witcher-3-858-1465286479-crop_desktop.jpg?crop=0.7111111111111111xw:1xh;center,center&resize=1200:*",
+        "image" : "https://video-images.vice.com/articles/5810c62c1fcf3d51e1685255/lede/saying-goodbye-to-our-geralts-at-the-end-of-the-witcher-3-858-1465286479-crop_desktop.jpg?crop=0.7111111111111111xw:1xh;center,center&resize=1600:*",
         "count" : 0
     },
 
     {
         "id" : 2,
         "name" : "Ciri",
-        "image" : "../public/images/originals/ciri.jpg",
+        "image" : "https://am21.akamaized.net/tms/cnt/uploads/2018/09/Witcher-3.jpg",
         "count" : 0
     },
 
     {
         "id" : 3,
         "name" : "Triss",
-        "image" : "../public/images/triss/jpg",
+        "image" : "https://s1.1zoom.me/big0/605/The_Witcher_3_Wild_Hunt_Triss_Merigold_Redhead_520956_1280x720.jpg",
         "count" : 0
     },
 
     {
         "id" : 4,
         "name" : "Yennefer",
-        "image" : "../public/images/yennefer.jpg",
+        "image" : "https://steamcdn-a.akamaihd.net/steam/apps/370002/ss_4c485ae96035688946168813b1195c598695702f.1920x1080.jpg?t=1548691630",
         "count" : 0
     },
 
     {
         "id" : 5,
         "name" : "Dandelion",
-        "image" : "../public/images/dandelion.jpg",
+        "image" : "http://assets.vg247.com/current//2015/05/the_witcher_3_poet_under_pressure_walkthrough.jpg",
         "count" : 0
     },
 
     {
         "id" : 6,
         "name" : "Zoltan",
-        "image" : "../public/images/zoltan.jpg",
+        "image" : "https://live.staticflickr.com/65535/32838652747_a9b04cb0e7_b.jpg",
         "count" : 0
     },
 
     {
         "id" : 7,
         "name" : "Bloody Baron",
-        "image" : "../public/images/baron.jpg",
+        "image" : "https://www.destructoid.com//ul/438115-Bloody-Baron-in-The-Witcher-3-Wild-Hunt.jpg",
         "count" : 0
     },
 
     {
         "id" : 8,
         "name" : "Gaunter O Dimm",
-        "image" : "../public/images/gaunter.jpg",
+        "image" : "https://66.media.tumblr.com/faa0d185eca5049859112d1f4b5b7786/tumblr_o2sljgzcnX1swlnfro2_1280.jpg",
         "count" : 0
     },
 
     {
         "id" : 9,
         "name" : "Vesemir",
-        "image" : "",
+        "image" : "http://www.fredzone.org/wp-content/uploads/2018/03/Vesemir-The-Witcher-3-1280x720.jpg",
         "count" : 0
     }
 ]

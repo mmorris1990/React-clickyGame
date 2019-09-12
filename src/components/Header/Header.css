@@ -1,8 +1,9 @@
 .header {
     width: 100%;
     font-size: 2rem;
-    color: #2A77AE;
+    color: darkslateblue;
     margin-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
   }
   
   .title {
