@@ -36,27 +36,20 @@
 
     {
         "id" : 6,
-        "name" : "Zoltan",
-        "image" : "https://live.staticflickr.com/65535/32838652747_a9b04cb0e7_b.jpg",
-        "count" : 0
-    },
-
-    {
-        "id" : 7,
         "name" : "Bloody Baron",
         "image" : "https://www.destructoid.com//ul/438115-Bloody-Baron-in-The-Witcher-3-Wild-Hunt.jpg",
         "count" : 0
     },
 
     {
-        "id" : 8,
+        "id" : 7,
         "name" : "Gaunter O Dimm",
         "image" : "https://66.media.tumblr.com/faa0d185eca5049859112d1f4b5b7786/tumblr_o2sljgzcnX1swlnfro2_1280.jpg",
         "count" : 0
     },
 
     {
-        "id" : 9,
+        "id" : 8,
         "name" : "Vesemir",
         "image" : "http://www.fredzone.org/wp-content/uploads/2018/03/Vesemir-The-Witcher-3-1280x720.jpg",
         "count" : 0

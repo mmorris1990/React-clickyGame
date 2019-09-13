@@ -14,19 +14,23 @@ class App extends Component {
   };
 
   gameOver = () => {
+    // Adjusts high score if player score is higher
     if (this.state.score > this.state.highscore) {
       this.setState({highscore: this.state.score}, function() {
         console.log(this.state.highscore);
       });
     }
+    // counts each card as they are clicked
     this.state.cards.forEach(card => {
       card.count = 0;
     });
+    // resets score and alerts player
     alert(`Game Over :( \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
 
+  // Counts player clicks and shuffles cards on click
   clickCount = id => {
     this.state.cards.find((o, i) => {
       if (o.id === id) {
@@ -43,6 +47,7 @@ class App extends Component {
       }
     });
   }
+
   // Map over this.state.cards and render a Card component for each card object
   render() {
     return (
